@@ -1,0 +1,11 @@
+name: VoteClient
+version: 1.0
+author: SaloEater
+main: com.salo.voteclient.Main
+commands:
+  coreanswer:
+    usage:
+    description:
+  votereward:
+    usage:
+    description:
